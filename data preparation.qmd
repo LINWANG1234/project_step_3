@@ -1,0 +1,117 @@
+---
+title: "Data Preparation"
+author: "Lin Wang"
+format: html
+---
+
+## Data preparation strategy
+
+1. Data Acquisition
+
+- Identify Relevant Datasets: 
+Select datasets that contain natural language text or speech recordings with instances of code-switching across multiple languages.
+
+- Access Public Repositories: 
+Explore repositories such as linguistic corpora archives, research databases, and academic websites for publicly available datasets.
+
+- Request Permissions: 
+If necessary, contact dataset owners or administrators to request access permissions for proprietary or restricted datasets.
+
+2. Data Curation
+
+- Evaluate Dataset Quality: 
+Assess the quality, relevance, and reliability of potential datasets based on criteria such as completeness, representativeness, and data integrity.
+
+- Merge and Integrate Datasets: 
+Merge multiple datasets, if applicable, to increase sample size and diversity of code-switching instances.
+
+- Filter and Subset Data: 
+Exclude irrelevant or redundant data to focus on code-switching instances that align with the research objectives.
+
+- Normalize Data Format: 
+Standardize data formats and encoding schemes to ensure consistency and compatibility across different datasets.
+
+3. Data Transformation
+
+- Tokenization: 
+Segment text data into individual tokens (words, morphemes) to facilitate subsequent analysis.
+
+- Language Identification: 
+Implement language identification algorithms to detect and label language boundaries within code-switching contexts.
+
+- Part-of-Speech Tagging: 
+Apply part-of-speech tagging techniques to annotate each token with its grammatical category (e.g., noun, verb, adjective).
+
+- Emotional Expression Annotation: 
+Extract emotional expressions from text data using sentiment analysis or emotion recognition algorithms.
+
+- Feature Engineering: 
+Create additional features based on linguistic properties (e.g., syntactic structures, lexical diversity) to enrich the dataset for analysis.
+
+4. Data Validation
+
+- Cross-Validation: 
+Perform cross-validation checks to verify the accuracy and consistency of data transformations and annotations.
+
+- Peer Review: 
+Seek feedback from domain experts or colleagues to validate the relevance and appropriateness of curated datasets and data transformations.
+
+- Error Correction: 
+Address any discrepancies or errors identified during the validation process to ensure the integrity and reliability of the final dataset.
+
+5. Documentation and Metadata
+
+- Record Data Provenance: 
+Document the sources, preprocessing steps, and transformations applied to each dataset to maintain transparency and reproducibility.
+
+- Create Metadata Descriptions: 
+Generate metadata descriptions specifying dataset characteristics, variables, and annotations to facilitate data sharing and future research.
+
+6. Ethics and Compliance
+
+- Ensure Data Privacy: 
+Implement measures to anonymize sensitive information and protect the privacy of participants in accordance with ethical guidelines.
+
+- Obtain Informed Consent:
+Obtain informed consent from participants or data owners, if applicable, to ensure compliance with legal and ethical standards regarding data usage and sharing.
+
+
+## Assessment
+
+### Part 1: Data Preparation Strategy Reflection
+
+- What did you learn?
+
+Through the process of identifying a data preparation strategy, I learned the importance of careful planning and consideration of various factors such as data sources, quality assessment, and preprocessing techniques. I gained a deeper understanding of the steps involved in preparing data for analysis and the significance of ensuring data integrity and reliability throughout the process.
+
+- What did you find most/ least challenging?
+
+One of the most challenging aspects was selecting the most appropriate datasets and ensuring their relevance to the research problem. Evaluating dataset quality and determining the best preprocessing techniques also presented challenges, particularly when dealing with unstructured or heterogeneous data sources. Additionally, balancing the need for comprehensive data transformation with computational efficiency was another area of challenge.
+
+- What resources did you consult?
+
+I consulted a variety of resources, including academic literature, online repositories, and tutorials on data preprocessing techniques. Peer-reviewed articles and research papers provided valuable insights into best practices for data preparation in the context of language processing and analysis. Online forums and communities also offered helpful discussions and advice from experienced researchers in the field.
+
+- What questions or concerns do you have at this point?
+
+At this point, I am concerned about the scalability and reproducibility of the data preparation process, particularly when dealing with large or complex datasets. I also have questions about the potential biases or limitations inherent in the selected datasets and how they may impact the validity of the research findings.
+
+- What do you need to address in order to move forward?
+
+To move forward, I need to further refine the data preparation strategy and address any remaining uncertainties or gaps in understanding. This may involve conducting additional research on specific preprocessing techniques, seeking feedback from peers or mentors, and conducting pilot studies to test the feasibility of the proposed approach.
+
+### Part 2: Consider how your prospectus is shaping up.
+
+- How have your interests evolved?
+
+My interests have evolved towards a deeper appreciation for the intricacies of data preparation and its significance in research outcomes. Initially, I may have been more focused on the analytical aspects of research, such as data analysis techniques or interpreting results. However, as I delved into the process of identifying a data preparation strategy, I realized the critical role it plays in ensuring the quality and reliability of research findings.
+
+I've become more intrigued by the challenges and considerations involved in cleaning, organizing, and preparing data for analysis. Understanding how to handle biases, manage large datasets effectively, and ensure data integrity has sparked my curiosity and prompted me to explore these topics further.
+
+- How have your research questions and objectives evolved?
+
+They haven't changed much, but I've gained a better understanding of the challenges involved in preparing data to answer them.
+
+- How have these changes been influenced by the literature you have reviewed and/ or the knowledge you have gained in this course?
+
+Reading papers and learning from the course has helped me refine my approach and understand the importance of data preparation in research.
