@@ -4,75 +4,86 @@ author: "Lin Wang"
 format: html
 ---
 
+<!--
+
+This is a solid overview of the process of preparing data and dataset for analysis from a high level. What I would like to see is a more detailed and specific plan for how you would go about preparing a dataset for your developing research question.
+
+So, I really have little to say about the content of this document. It is well written and well thought out. Now, it is time to apply this framework and consider more specifically the data you will be working with, what format it is in, and how you will go about preparing it for analysis.
+
+Another suggestion: I think it may be time to start merging your project steps into one document so that you can I can see how the overall project prospectus is shaping up. This will help us talk more effectively about your planned goals, methods, and outcomes.
+
+-->
+
+
 ## Data preparation strategy
 
 1. Data Acquisition
 
-- Identify Relevant Datasets: 
+- Identify Relevant Datasets:\
 Select datasets that contain natural language text or speech recordings with instances of code-switching across multiple languages.
 
-- Access Public Repositories: 
+- Access Public Repositories:\
 Explore repositories such as linguistic corpora archives, research databases, and academic websites for publicly available datasets.
 
-- Request Permissions: 
+- Request Permissions:\
 If necessary, contact dataset owners or administrators to request access permissions for proprietary or restricted datasets.
 
 2. Data Curation
 
-- Evaluate Dataset Quality: 
+- Evaluate Dataset Quality:\
 Assess the quality, relevance, and reliability of potential datasets based on criteria such as completeness, representativeness, and data integrity.
 
-- Merge and Integrate Datasets: 
+- Merge and Integrate Datasets:\
 Merge multiple datasets, if applicable, to increase sample size and diversity of code-switching instances.
 
-- Filter and Subset Data: 
+- Filter and Subset Data:\
 Exclude irrelevant or redundant data to focus on code-switching instances that align with the research objectives.
 
-- Normalize Data Format: 
+- Normalize Data Format:\
 Standardize data formats and encoding schemes to ensure consistency and compatibility across different datasets.
 
 3. Data Transformation
 
-- Tokenization: 
+- Tokenization:\
 Segment text data into individual tokens (words, morphemes) to facilitate subsequent analysis.
 
-- Language Identification: 
+- Language Identification:\
 Implement language identification algorithms to detect and label language boundaries within code-switching contexts.
 
-- Part-of-Speech Tagging: 
+- Part-of-Speech Tagging:\
 Apply part-of-speech tagging techniques to annotate each token with its grammatical category (e.g., noun, verb, adjective).
 
-- Emotional Expression Annotation: 
+- Emotional Expression Annotation:\
 Extract emotional expressions from text data using sentiment analysis or emotion recognition algorithms.
 
-- Feature Engineering: 
+- Feature Engineering:\
 Create additional features based on linguistic properties (e.g., syntactic structures, lexical diversity) to enrich the dataset for analysis.
 
 4. Data Validation
 
-- Cross-Validation: 
+- Cross-Validation:\
 Perform cross-validation checks to verify the accuracy and consistency of data transformations and annotations.
 
-- Peer Review: 
+- Peer Review:\
 Seek feedback from domain experts or colleagues to validate the relevance and appropriateness of curated datasets and data transformations.
 
-- Error Correction: 
+- Error Correction:\
 Address any discrepancies or errors identified during the validation process to ensure the integrity and reliability of the final dataset.
 
 5. Documentation and Metadata
 
-- Record Data Provenance: 
+- Record Data Provenance:\
 Document the sources, preprocessing steps, and transformations applied to each dataset to maintain transparency and reproducibility.
 
-- Create Metadata Descriptions: 
+- Create Metadata Descriptions:\
 Generate metadata descriptions specifying dataset characteristics, variables, and annotations to facilitate data sharing and future research.
 
 6. Ethics and Compliance
 
-- Ensure Data Privacy: 
+- Ensure Data Privacy:\
 Implement measures to anonymize sensitive information and protect the privacy of participants in accordance with ethical guidelines.
 
-- Obtain Informed Consent:
+- Obtain Informed Consent:\
 Obtain informed consent from participants or data owners, if applicable, to ensure compliance with legal and ethical standards regarding data usage and sharing.
 
 
